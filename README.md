@@ -43,7 +43,7 @@ Not done yet
 * Install this code via running the install script using these commands :
 
 ```
-> pastebin get rhNbNbFE install
+> pastebin get 2NVPXs7c install
 > install
 ```
 * Modify `startup` if you wish to configure/alter any variables mentioned in the feature list, you'll find them at the top of the file
